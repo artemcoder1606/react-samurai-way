@@ -1,0 +1,9 @@
+.track {
+    border: 1px solid gold;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.track h3 {
+    color: #646cff;
+}
